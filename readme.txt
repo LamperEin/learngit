@@ -1,2 +1,2 @@
-Git is a version centrol system
+Git is a distributed version centrol system
 Git is free software
